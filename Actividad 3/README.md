@@ -16,7 +16,7 @@ gcloud storage ls
 
 # Listar las IPs en uso, existentes y reservadas
 
-comando: gcloud compute instances list
+comando: gcloud compute addresses list
 
 - - - 
 
